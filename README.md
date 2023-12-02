@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi! I'm Tatiana.
+### Student at Undefined Academy.
+My *main motivation* for 2024 is becoming a **Full-Stack JavaScript developer** and land my first job as a junior developer.
 
-<!--
-**tatirodmar/tatirodmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+From **Uruguay**, not working on tech but **willing to learn as much as possible** to reach my goals. 🚀
 
-Here are some ideas to get you started:
+### Ejercicio 1:
+#### Hacer una tabla en markdown y describir 5 comandos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| comandos | descripción                      |
+| -------- | -------------------------------- |
+| pwd      | print current working directory  | 
+| mkdir    | make directory                   |
+| rm       | remove                           |
+| touch    | creates a new file               |
+| cp       | copy a file to another directory |
+
